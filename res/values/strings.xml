@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VOXX Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tv_cureent_wifi">1.  Use your phone to connect to WiFi :</string>
+    <string name="tv_info">Please connect the wireless device :</string>
+    <string name="tv_connet_wifi">You must connect to WiFi first</string>
+    <string name="bt_connet_wifi">Go</string>
+    <string name="toast_appuninstall">this app no install</string>
+    
+    <string name="wifi">OpenWifi</string>
+    <string name="wifi_search">Scan</string>
+    <string name="wifi_state">Searching...</string>
+    <string name="wifi_state_connect">Connecting...</string>
+    <string name="wifi_state_connected">Connected</string>
+    <string name="wifi_start">Start</string>
+    <string name="wifi_secured_wep">Secured with WEP</string>
+    <string name="wifi_secured_eap">Secured with EAP</string>
+    <string name="wifi_secured_wpa2">Secured with WPA2</string>
+    <string name="wifi_secured_wpa1">Secured with WPA2</string>
+    <string name="wifi_secured_wpa2andwpa1">Secured with WPA/WPA2</string>
+    <string name="wifi_connect_message">Please make sure that the wifi password for 12345678</string>
+    <string name="wifi_dialog_toast">Password cannot be empty !</string>
+    <string name="wifi_dialog_toast_cant">Can\'t connet this network !</string>
+    <string name="wifi_dialog_connect">Connect</string>
+    <string name="wifi_dialog_cancel">Cancel</string>
+    <string name="wifi_dialog_security">Security</string>
+    <string name="wifi_dialog_password">Password</string>
+    <string name="wifi_dialog_showpassword">Show password</string>
+
+</resources>
